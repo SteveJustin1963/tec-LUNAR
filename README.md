@@ -3,11 +3,11 @@ TEC-1 Forth controlled 3D Lunar Lander Simulator on 3D moon.
 
 The Lunar Lander program will allow the user to control the descent of a lunar lander onto the surface of the moon. The user will be able to control the thrust of the lander's engines and the orientation of the lander. The program will display a representation of the lander and the surface of the moon. The user will need to use the lander's thrusters to slow the descent and land the lander safely on the surface of the moon.
 
--A subroutine to calculate the landing trajectory
--A subroutine to calculate the landing velocity
--A subroutine to calculate the deceleration
--A subroutine to calculate the landing site
--A subroutine to calculate the lunar surface conditions
+- A subroutine to calculate the landing trajectory
+- A subroutine to calculate the landing velocity
+- A subroutine to calculate the deceleration
+- A subroutine to calculate the landing site
+- A subroutine to calculate the lunar surface conditions
 
 
 The following code is a basic example of how to land a lunar lander on the moon:
