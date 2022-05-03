@@ -1,0 +1,62 @@
+
+```
+program LunarLander;
+
+// constants
+const GRAVITY = 1.62; // m/s^2
+const MAX_THRUST = 10; // kN
+const FUEL_RATE = 0.1; // kg/s
+
+// variables
+var thrust : real; // kN
+var fuel : real; // kg
+var height : real; // m
+var velocity : real; // m/s
+var orientation : integer; // degrees
+
+// procedure to draw the lander
+procedure DrawLander;
+begin
+
+end;
+
+// procedure to draw the surface of the moon
+procedure DrawSurface;
+begin
+
+end;
+
+// procedure to get input from the user
+procedure GetInput;
+begin
+
+end;
+
+// procedure to update the lander's position and velocity
+procedure UpdateLander;
+begin
+
+end;
+
+// main program loop
+begin
+ fuel := 100;
+ height := 1000;
+ velocity := 0;
+ orientation := 0;
+
+ while height > 0 do
+ begin
+  // draw the lander and the surface
+  DrawLander;
+  DrawSurface;
+
+  // get input from the user
+  GetInput;
+
+  // update the lander's position and velocity
+  UpdateLander;
+ end;
+
+end.
+```
