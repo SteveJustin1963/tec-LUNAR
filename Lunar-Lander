@@ -1,6 +1,4 @@
-
-```
-program LunarLander;
+// program LunarLander
 
 // constants
 const GRAVITY = 1.62; // m/s^2
@@ -59,4 +57,4 @@ begin
  end;
 
 end.
-```
+ 
