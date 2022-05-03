@@ -1,0 +1,53 @@
+
+- A subroutine to calculate the landing trajectory
+ 
+implicit none
+
+!*** Declare variables ***
+
+real :: r, theta, phi, v, vx, vy, vz
+real :: x, y, z, t, g
+
+!*** Initialize variables ***
+
+r = 3.844e8 ! Radius of the moon (m)
+theta = 45.0 ! Angle of approach (degrees)
+phi = 0.0 ! Angle of landing (degrees)
+v = 1.0e3 ! Velocity of approach (m/s)
+g = 1.62 ! Acceleration due to gravity (m/s^2)
+
+!*** Convert theta and phi to radians ***
+
+theta = theta * pi / 180.0
+phi = phi * pi / 180.0
+
+!*** Calculate the x, y, and z components of velocity ***
+
+vx = v * cos(theta) * cos(phi)
+vy = v * cos(theta) * sin(phi)
+vz = v * sin(theta)
+
+!*** Calculate the landing trajectory ***
+
+x = r * cos(phi)
+y = r * sin(phi)
+z = 0.0
+t = 0.0
+
+do while (z >= 0.0)
+
+vz = vz - g * t
+z = z + vz * t
+x = x + vx * t
+y = y + vy * t
+t = t + 0.1
+
+end do
+
+!*** Output the results ***
+
+write (*,*) 'Landing position: ', x, y, z
+write (*,*) 'Time of landing: ', t, ' seconds'
+
+end
+ 
