@@ -38,5 +38,16 @@ The following code is a basic example of how to land a lunar lander on the moon:
 6. Shut down the engines and complete the landing procedure.
 
 
+## Iterate
+
+## Ref
+- https://en.wikipedia.org/wiki/Lunar_Lander_(video_game_genre)
+- https://blog.playstation.com/archive/2019/07/16/how-apollo-11s-moon-landing-inspired-upcoming-sci-fi-thriller-deliver-us-the-moon/
+- https://store.playstation.com/en-au/product/EP4382-CUSA16761_00-DELIVERUSTHEMOON
+- http://mattias.malmer.nu/lunar-module-blueprints/
+- 
+- 
+
+
 
 
