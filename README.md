@@ -1,8 +1,8 @@
 # tec-LUNAR
 
-Luna Lander was in TE 10 pg 74
+Lunar Lander was in TE 10 pg 74
 
-"Key sequence: AD, 4, 9, 0, GO, GO.
+"Key sequence: `AD, 4, 9, 0, GO, GO.`
 Set speed control to your level of skill (strength of gravity). When
 the game ends, press any key to restart.
 You are in a luna module, orbiting some 50 kilometres above the luna
@@ -14,7 +14,7 @@ Your height is indicated by the first two digits and this starts at 50.
 Watch yourself descend without blasting your retros and as you fall, you
 will descend faster and faster - until you HIT!
 Press any key to restart (except reset). To blast for a short time, press:
-+. This may slow you a bit and to slow yourself down more, press +
+`+`. This may slow you a bit and to slow yourself down more, press `+`
 several times. If you over-do this command, you will slow down to zero
 velocity and even start going UP! Never move upwards as this is a waste
 of fuel.
@@ -24,9 +24,7 @@ surface.
 So, use your fuel wisely to survive"
 
 
-### somethign newer, Forth controlled small model in 3D that simulates a Lunar Landing on 3D virual moon.
-
-read that heading again! 
+### something newer, Forth controlled physical 3D scale model Lunar Landing on 3D moon. read that heading again! 
 
 The Lunar Lander program will allow the user to control the descent of a model lunar lander onto the surface of the moon. The user will be able to control the thrust of the lander's engines and the orientation of the lander. The program will display a representation of the lander and the surface of the moon. The user will need to use the lander's thrusters to slow the descent and land the lander safely on the surface of the moon.
 
@@ -38,5 +36,7 @@ The following code is a basic example of how to land a lunar lander on the moon:
 4. Monitor the lander's progress and make any necessary course corrections.
 5. Touch down lightly on the surface of the moon.
 6. Shut down the engines and complete the landing procedure.
+
+
 
 
