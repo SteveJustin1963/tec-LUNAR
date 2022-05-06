@@ -24,10 +24,11 @@ surface.
 So, use your fuel wisely to survive"
 
 
-TEC-1 Forth controlled 3D Lunar Lander Simulator on 3D moon.
+### somethign newer, Forth controlled small model in 3D that simulates a Lunar Landing on 3D virual moon.
 
-The Lunar Lander program will allow the user to control the descent of a lunar lander onto the surface of the moon. The user will be able to control the thrust of the lander's engines and the orientation of the lander. The program will display a representation of the lander and the surface of the moon. The user will need to use the lander's thrusters to slow the descent and land the lander safely on the surface of the moon.
+read that heading again! 
 
+The Lunar Lander program will allow the user to control the descent of a model lunar lander onto the surface of the moon. The user will be able to control the thrust of the lander's engines and the orientation of the lander. The program will display a representation of the lander and the surface of the moon. The user will need to use the lander's thrusters to slow the descent and land the lander safely on the surface of the moon.
 
 
 The following code is a basic example of how to land a lunar lander on the moon:
