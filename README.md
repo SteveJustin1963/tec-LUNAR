@@ -81,6 +81,8 @@ Check for game win or loss: If the altitude (ALTITUDE) becomes zero or less, the
 
 End of loop: If none of the win or loss conditions have been met, the program jumps back to the beginning of the main game loop to continue updating the game state.
 
+``LL.c`` Note that this is just a rough conversion and there may be some differences in the behavior of the code compared to the original LUNALANDER program. For example, the original program used BCD arithmetic and the C code uses standard integer arithmetic, which may result in slightly different values for the altitude and fuel. Additionally, the original program used a specific function (SCANDISP) to check for user input, while the C code uses the standard getchar function.
+
 
 ## Iterate
 
