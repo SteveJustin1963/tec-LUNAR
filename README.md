@@ -65,6 +65,23 @@ LUNALANDER is a program written in Z80 assembly language for a computer game in 
 
 The program starts by setting up some initial values for the game, including the altitude, fuel, and velocity of the lunar module. It then clears the display and enters a loop in which it displays the current fuel and altitude values, checks for user input, and updates the velocity and altitude based on the elapsed time. If the altitude becomes zero or less, the player wins the game, and if the altitude becomes less than 60, the player loses. The program continues to loop until one of these conditions is met.
 
+The LUNALANDER code can be broken down into the following steps:
+
+Initialization: The program initializes several variables and registers, including the display memory location (DISPLAY), the start of the RAM memory (STARTRAM), and the initial values for the altitude (ALTITUDE), fuel (FUEL), and velocity (VELOCITY) of the lunar module.
+
+Clear the display: The program clears the display by writing the value 0x00 to each of the display memory locations.
+
+Main game loop: The program enters a loop that will run 128 times. In each iteration of the loop, it displays the current fuel and altitude values in hexadecimal format, checks for user input, and updates the velocity and altitude based on the elapsed time.
+
+Check for user input: The program checks for user input by calling the SCANDISP function, which checks for any keypresses. If a key has been pressed, the program calls the LUNAKPRESS function to process the input.
+
+Update the velocity and altitude: The program decrements the velocity (VELOCITY) by 1 and adds it to the altitude (ALTITUDE). It then adjusts the result using the DAA (decimal adjust after addition) instruction to ensure that it is stored in BCD (binary-coded decimal) format.
+
+Check for game win or loss: If the altitude (ALTITUDE) becomes zero or less, the player has won the game and the program jumps to the LWIN label. If the altitude (ALTITUDE) becomes less than 60, the player has lost the game and the program jumps to the LLOSE label.
+
+End of loop: If none of the win or loss conditions have been met, the program jumps back to the beginning of the main game loop to continue updating the game state.
+
+
 ## Iterate
 
 ## Ref
