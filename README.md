@@ -83,6 +83,10 @@ End of loop: If none of the win or loss conditions have been met, the program ju
 
 ``LL.c`` Note that this is just a rough conversion and there may be some differences in the behavior of the code compared to the original LUNALANDER program. For example, the original program used BCD arithmetic and the C code uses standard integer arithmetic, which may result in slightly different values for the altitude and fuel. Additionally, the original program used a specific function (SCANDISP) to check for user input, while the C code uses the standard getchar function.
 
+## Convert to forth
+This code defines variables for the display, start of RAM, and game variables, as well as functions for clearing the display, displaying the current values of fuel and altitude, getting input from the user, processing the input, updating the velocity and altitude, and checking for a win or loss. The MAIN function contains the main game loop, which continues until the player wins or loses. ```LL.F```
+
+
 
 ## Iterate
 
