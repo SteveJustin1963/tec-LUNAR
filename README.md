@@ -96,7 +96,7 @@ The following code is a basic example of how to land a lunar lander on the moon:
 - https://blog.playstation.com/archive/2019/07/16/how-apollo-11s-moon-landing-inspired-upcoming-sci-fi-thriller-deliver-us-the-moon/
 - https://store.playstation.com/en-au/product/EP4382-CUSA16761_00-DELIVERUSTHEMOON
 - http://mattias.malmer.nu/lunar-module-blueprints/
-- 
+- https://technologizer.com/2009/07/19/lunar-lander/index.html
 - 
 
 
