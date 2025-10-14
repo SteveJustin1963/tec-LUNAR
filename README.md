@@ -1,13 +1,13 @@
-# LUNA LANDER TEC-1 Mintor 1A
+# The real Apollo guidance system fails in orbit...Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup...
 
  
 <img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
-The real Apollo guidance system fails in orbit, Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup.....
+
 
 ---
 
-## **Title: “Luna Descent — The TEC-1 Mission”**
+# **Title: “Luna Descent — The TEC-1 Mission”**
 
 ### **CAST**
 
