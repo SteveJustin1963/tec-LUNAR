@@ -78,13 +78,15 @@ Bloody unbelievable.
 
 ---
 
-<img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/6fc376a4-a88e-4bdf-b1b2-fc5511258b75" />
-
-
 
 ### **SCENE 2 — PATCHED CONTROL**
 
 *(Buzz solders the last wire. The small board glows faintly; red digits blink to life.)*
+
+<img width="974" height="1486" alt="image" src="https://github.com/user-attachments/assets/89232921-8ca8-4aea-82a9-0ba2d551078c" />
+
+
+
 
 **Buzz:**
 Alright, we’re online.
