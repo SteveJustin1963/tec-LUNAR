@@ -8,8 +8,8 @@ have some fun first
 # LUNA LANDER TEC-1 Mintor 1A
 try it on tec-1 Lunar Lander was in TE 10-74
 
-<img width="444" height="444" alt="image" src="https://github.com/user-attachments/assets/1c22ba6c-eefd-437e-8da9-380b454dfd73" />
-<img width="444" height="444" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
+ 
+<img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
 
 
