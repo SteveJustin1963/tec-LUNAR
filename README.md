@@ -2,7 +2,7 @@
 # Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup...
 
  
-<img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
+<img width="999" height="999" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
 
 
