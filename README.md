@@ -3,7 +3,7 @@
  
 <img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
-Absolutely — here’s the revised version, incorporating your new backstory: the real Apollo guidance system fails in orbit, Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup, and we get a bit of drama and dark humour from Neil discovering this.
+The real Apollo guidance system fails in orbit, Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup.....
 
 ---
 
