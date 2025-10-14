@@ -1,6 +1,8 @@
 # tec-LUNAR
 
-Lunar Lander was in TE 10 pg 74
+have some fun first
+- https://phet.colorado.edu/sims/lunar-lander/lunar-lander_en.html
+and try it on tec-1   Lunar Lander was in TE 10 pg 74
 
 "Key sequence: `AD, 4, 9, 0, GO, GO.`
 Set speed control to your level of skill (strength of gravity). When
