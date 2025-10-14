@@ -203,7 +203,7 @@ Let’s turn it into a **detailed ASCII flowchart** that shows every key routine
 
 ## 🧭 **ASCII Flowchart — TEC-1 “LUNALANDER”**
 
-```
+ 
 ┌────────────────────────────────────────────────────────┐
 │                    LUNALANDER (Start)                  │
 │      .ORG 0490h   Initialize Game Variables            │
@@ -309,7 +309,6 @@ Let’s turn it into a **detailed ASCII flowchart** that shows every key routine
 │         END / LOOP       │
 │    “Press any key” restarts│
 └──────────────────────────┘
-```
 
 ---
 
@@ -348,7 +347,7 @@ Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC
 
 ## 🚀 **TEC-1 LUNALANDER — Game Display & Logic Flow**
 
-```
+
 ┌──────────────────────────────────────────────────────────────┐
 │             [ TEC-1 FRONT PANEL — GAME STATUS ]              │
 ├──────────────────────────────────────────────────────────────┤
@@ -430,13 +429,13 @@ Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC
 │ 0x0800     │ STARTRAM (variable base: fuel, alt, vel)        │
 └────────────┴─────────────────────────────────────────────────┘
 
-```
+
 
 ---
 
 ### 🧩 How It All Fits Together
 
-```
+
 [ KEYBOARD INPUT ] 
        │
        ▼
@@ -453,7 +452,7 @@ Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC
        │ If ALT<60h → LOSE → PLAYTUNE │
        │ Else loop back → LUNA20      │
        └──────────────────────────────┘
-```
+
 
 ---
 
