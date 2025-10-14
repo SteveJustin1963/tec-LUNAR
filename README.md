@@ -8,6 +8,10 @@ have some fun first
 # LUNA LANDER TEC-1 Mintor 1A
 try it on tec-1 Lunar Lander was in TE 10-74
 
+<img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
+
+
+
 - Key sequence: AD, 4, 9, 0, GO, GO.
 - Set speed control to your level of skill (strength of gravity).
 - When the game ends, press any key to restart.
