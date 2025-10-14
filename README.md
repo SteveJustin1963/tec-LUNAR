@@ -6,15 +6,12 @@ have some fun first
 
 
 # LUNA LANDER TEC-1 Mintor 1A
-try it on tec-1 Lunar Lander was in TE 10-74
-
+Lunar Lander controlled by the tec-1 in issue TE 10-74
  
 <img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
-
-
-
-- Key sequence: AD, 4, 9, 0, GO, GO.
-- Set speed control to your level of skill (strength of gravity).
+Buzz says "we are ready for landing sequence Houston, over" "Roger that Buzz" 
+Neil presses the key sequence `AD, 4, 9, 0, GO, GO`, the Tec-1 lights up. "Now setting
+speed control to match moon 1.62 G."  
 - When the game ends, press any key to restart.
 - You are in a luna module, orbiting some 50 kilometres above the luna
 surface.
