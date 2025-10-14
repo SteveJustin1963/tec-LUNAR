@@ -8,7 +8,7 @@ have some fun first
 # LUNA LANDER TEC-1 Mintor 1A
 try it on tec-1 Lunar Lander was in TE 10-74
 
--Key sequence: AD, 4, 9, 0, GO, GO.
+- Key sequence: AD, 4, 9, 0, GO, GO.
 - Set speed control to your level of skill (strength of gravity).
 - When the game ends, press any key to restart.
 - You are in a luna module, orbiting some 50 kilometres above the luna
