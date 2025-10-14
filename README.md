@@ -1,37 +1,191 @@
-# tec-LUNAR
-
-have some fun first
-- https://phet.colorado.edu/sims/lunar-lander/lunar-lander_en.html
-
-
-
 # LUNA LANDER TEC-1 Mintor 1A
-Lunar Lander controlled by the tec-1 in issue TE 10-74
+
  
 <img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
-Buzz says "we are ready for landing sequence Houston, over" "Roger that Buzz" 
-Neil presses the key sequence `AD, 4, 9, 0, GO, GO`, the Tec-1 lights up. "Now setting
-speed control to match moon 1.62 G."  
-- When the game ends, press any key to restart.
-- You are in a luna module, orbiting some 50 kilometres above the luna
-surface.
-- You have 20 litres of astro fuel left and you have to land your
-spacecraft without denting either the moon or the craft.
-- Gravity is constantly pulling you down and you can only slow your
-descent by blasting with your retro rockets.
-- Your height is indicated by the first two digits and this starts at 50.
-- Watch yourself descend without blasting your retros and as you fall, you
-will descend faster and faster - until you HIT!
-- Press any key to restart (except reset).
-- To blast for a short time, press: `+`.
-- This may slow you a bit and to slow yourself down more, press `+` several times.
-- If you over-do this command, you will slow down to zero
-velocity and even start going UP!
-- Never move upwards as this is a waste of fuel.
-- Every time you blast, your fuel goes down by ONE LITRE.
-- Once your fuel runs out, you can't fire any more and you start falling towards the luna
-surface.
-- So, use your fuel wisely to survive!"
+
+Absolutely — here’s the revised version, incorporating your new backstory: the real Apollo guidance system fails in orbit, Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup, and we get a bit of drama and dark humour from Neil discovering this.
+
+---
+
+## **Title: “Luna Descent — The TEC-1 Mission”**
+
+### **CAST**
+
+* **Neil Armstrong** – Commander
+* **Buzz Aldrin** – Lunar Module Pilot
+* **Houston** – Mission Control (voice)
+* **TEC-1** – The improvised onboard computer (a Talking Electronics Z80 kit)
+
+---
+
+### **SCENE 1 — IN LUNAR ORBIT**
+
+*The lunar module drifts silently. Buzz is bent over a panel full of warning lights. A faint beeping fills the cabin.*
+
+**Buzz:**
+Uh, Neil... guidance computer just threw another fault code. She’s gone dead.
+
+**Neil:**
+(leans closer)
+You’ve gotta be kidding me. That’s the *primary controller*. We’re fifty kilometres above the surface, Buzz!
+
+**Houston (radio crackle):**
+Eagle, confirm. Are you saying the flight computer’s offline?
+
+**Neil:**
+Affirmative, Houston. We’ve got a full control failure. No guidance, no descent computer, nothing.
+
+*(There’s a tense silence.)*
+
+**Buzz (hesitant):**
+I might... have an idea.
+Look, it’s crazy — but I brought my kid’s **TEC-1** up here. He built it from a Talking Electronics magazine kit. Said it could “run games or rockets.”
+
+**Neil (deadpan):**
+You brought a bloody *hobby board* to the Moon?
+
+**Buzz:**
+Hey, it’s small, reliable, and it survived my suitcase better than NASA’s gear.
+If we can wire it into the throttle relay bus, maybe we can improvise manual descent control.
+
+**Neil:**
+Jesus, Buzz... that’s not in the checklist.
+
+**Buzz:**
+Neither is dying in orbit, Neil.
+
+*(Buzz starts unpacking the tiny TEC-1. Wires dangle like spaghetti. Neil stares in disbelief.)*
+
+**Neil:**
+Houston, this is Eagle. Requesting permission to interface... uh, an *Australian microcomputer* with our engine control circuit.
+
+**Houston (after a long pause):**
+Say again, Eagle? Did you say... “Australian microcomputer”?
+
+**Buzz:**
+Affirmative. Talking Electronics, issue 10, page 74. Runs on a Z80.
+We can map the throttle control into the input port matrix.
+
+**Houston (after a crackle):**
+...Stand by.
+(*beat*)
+Approved. If it works, it works. You have go for improvised descent control.
+And Buzz — tell your kid he’s now part of the Apollo program.
+
+**Neil (grumbling):**
+Bloody unbelievable.
+
+---
+
+### **SCENE 2 — PATCHED CONTROL**
+
+*(Buzz solders the last wire. The small board glows faintly; red digits blink to life.)*
+
+**Buzz:**
+Alright, we’re online.
+Ready to initiate manual sequence.
+
+**Neil:**
+This is insane.
+(*he mutters a profanity under his breath*)
+Alright, entering sequence... `A D, 4, 9, 0, GO, GO.`
+
+*(The display flashes: “LUNA LANDER — READY.”)*
+
+**Buzz:**
+Look at that. Talking Electronics saves NASA.
+
+**Neil:**
+If this works, I’m buying your kid a lifetime supply of 9-volt batteries.
+
+---
+
+### **SCENE 3 — DESCENT BEGINS**
+
+*The module hums. The TEC-1 shows: `ALT 50  FUEL 20  VEL 00`.*
+
+**Neil:**
+Now setting descent rate — one-point-six-two lunar G.
+If this thing goes haywire, I’m going to haunt whoever approved it.
+
+**Buzz:**
+She’s responding! We’ve got thrust control.
+Try a short burn — press “+.”
+
+*(Neil hits the key. The craft vibrates.)*
+
+**Neil:**
+Fuel down one.
+Descent steady.
+Bloody hell — it’s actually flying the ship.
+
+**Buzz:**
+Told you. Never underestimate Australian electronics.
+
+---
+
+### **SCENE 4 — LOW FUEL**
+
+**Houston (radio):**
+Eagle, fuel status?
+
+**Neil:**
+Reading one-zero litres. Altitude three-five and dropping.
+I can’t believe this — we’re landing on the Moon using something from a *mail-order magazine*.
+
+**Buzz:**
+Relax. She’s holding.
+Press “+” again, gently.
+
+*(Neil taps the key. The engine rumbles softly.)*
+
+---
+
+### **SCENE 5 — CONTACT LIGHT**
+
+**Buzz:**
+Contact light!
+
+**Neil:**
+Engine stop.
+(*he exhales in disbelief*)
+We’re down.
+We just landed the first lunar module... with a bloody TEC-1.
+
+**Houston (ecstatic):**
+Copy that, Eagle. Outstanding work. Australia just joined the space race.
+
+**Buzz:**
+Guess my kid’s homework just saved our lives.
+
+**Neil (laughing):**
+Next time, let’s just bring two of them.
+
+---
+
+### **SCENE 6 — GAME OVER / RESTART**
+
+*(The TEC-1 beeps cheerfully.)*
+**TEC-1:** “LUNA WIN — PRESS ANY KEY TO RESTART.”
+
+**Buzz:**
+Heh. Even gives us a restart option. Nice touch.
+
+**Neil:**
+No way. I’m not tempting fate twice.
+
+*(He presses a key anyway. The screen resets, blinking softly in the cabin glow.)*
+
+**Narrator (voice-over):**
+And so, with twenty litres of astro fuel, a handful of keys, and a hobby computer from *Talking Electronics*, humankind made it to the Moon — one keystroke at a time.
+
+*Fade to black. The red LEDs shimmer faintly: `LUNALANDER READY`.*
+
+---
+
+
+
+
 
 ## code ```LL.asm```
 LUNALANDER is a program written in Z80 assembly language for a computer game in which the player must land a lunar module on the moon. The game is played by using the + key to fire the engine briefly and slow down the descent, while keeping an eye on the altitude and fuel levels. If the player runs out of fuel, the lunar module will crash.
@@ -82,7 +236,8 @@ The following code is a basic example of how to land a lunar lander on the moon:
 - https://store.playstation.com/en-au/product/EP4382-CUSA16761_00-DELIVERUSTHEMOON
 - http://mattias.malmer.nu/lunar-module-blueprints/
 - https://technologizer.com/2009/07/19/lunar-lander/index.html
-- 
+- https://phet.colorado.edu/sims/lunar-lander/lunar-lander_en.html
+
 
 
 
