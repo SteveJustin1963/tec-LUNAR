@@ -459,30 +459,6 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 
 
 
-# Iterate
-
-
-# something newer, Forth controlled physical 3D scale model Lunar Landing on 3D moon. read that heading again! 
-
-The Lunar Lander program will allow the user to control the descent of a model lunar lander onto the surface of the moon. The user will be able to control the thrust of the lander's engines and the orientation of the lander. The program will display a representation of the lander and the surface of the moon. The user will need to use the lander's thrusters to slow the descent and land the lander safely on the surface of the moon.
-
-
-The following code is a basic example of how to land a lunar lander on the moon:
-1. Set up the lander in the correct position for landing.
-2. Make sure that all the safety checks are complete and that the lander is ready for landing.
-3. Start the engines and begin the descent.
-4. Monitor the lander's progress and make any necessary course corrections.
-5. Touch down lightly on the surface of the moon.
-6. Shut down the engines and complete the landing procedure.
-
-
-# Ref
-- https://en.wikipedia.org/wiki/Lunar_Lander_(video_game_genre)
-- https://blog.playstation.com/archive/2019/07/16/how-apollo-11s-moon-landing-inspired-upcoming-sci-fi-thriller-deliver-us-the-moon/
-- https://store.playstation.com/en-au/product/EP4382-CUSA16761_00-DELIVERUSTHEMOON
-- http://mattias.malmer.nu/lunar-module-blueprints/
-- https://technologizer.com/2009/07/19/lunar-lander/index.html
-- https://phet.colorado.edu/sims/lunar-lander/lunar-lander_en.html
 
 
 
