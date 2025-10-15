@@ -1,5 +1,7 @@
 # The real Apollo guidance system fails, Buzz suggests wiring in his **kid’s Talking Electronics TEC-1** as a desperate backup...
 
+https://github.com/SteveJustin1963/tec-BOOKS/blob/master/TE/Mag/talking_electronics_10.pdf
+
  
 <img width="999" height="999" alt="image" src="https://github.com/user-attachments/assets/aa19ef2d-b5d0-4b40-907b-581872b7f82c" />
 
