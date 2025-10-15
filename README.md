@@ -193,16 +193,13 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 
 
 
-# LL.asm  **detailed ASCII flowchart** that shows every key routine, variable, and decision path.
-
-
-```
+# LL.asm  
 
 ---
 
 ## 🧭 **ASCII Flowchart — TEC-1 “LUNALANDER”**
 
- 
+```
 ┌────────────────────────────────────────────────────────┐
 │                    LUNALANDER (Start)                  │
 │      .ORG 0490h   Initialize Game Variables            │
@@ -308,6 +305,7 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 │         END / LOOP       │
 │    “Press any key” restarts│
 └──────────────────────────┘
+```
 
 ---
 
@@ -340,13 +338,12 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 
 ---
 
-Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC-1 Lunar Lander game logic** maps to the **display, variables, and controls** — almost like a hardware visualization of the running program.
 
 ---
 
 ## 🚀 **TEC-1 LUNALANDER — Game Display & Logic Flow**
 
-
+```
 ┌──────────────────────────────────────────────────────────────┐
 │             [ TEC-1 FRONT PANEL — GAME STATUS ]              │
 ├──────────────────────────────────────────────────────────────┤
@@ -428,13 +425,13 @@ Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC
 │ 0x0800     │ STARTRAM (variable base: fuel, alt, vel)        │
 └────────────┴─────────────────────────────────────────────────┘
 
-
+```
 
 ---
 
 ### 🧩 How It All Fits Together
 
-
+```
 [ KEYBOARD INPUT ] 
        │
        ▼
@@ -451,14 +448,9 @@ Here’s a **detailed ASCII dashboard-style flow diagram** showing how the **TEC
        │ If ALT<60h → LOSE → PLAYTUNE │
        │ Else loop back → LUNA20      │
        └──────────────────────────────┘
-
-
----
-
-
-
 ```
 
+---
 
 
 
