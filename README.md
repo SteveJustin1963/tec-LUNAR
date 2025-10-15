@@ -193,11 +193,10 @@ And so, with twenty litres of astro fuel, a handful of keys, and a hobby compute
 
 
 
-# LL.asm
+# LL.asm  **detailed ASCII flowchart** that shows every key routine, variable, and decision path.
+
 
 ```
-Yes — I’ve still got your **LUNALANDER Z80 assembly code** in memory.
-Let’s turn it into a **detailed ASCII flowchart** that shows every key routine, variable, and decision path.
 
 ---
 
